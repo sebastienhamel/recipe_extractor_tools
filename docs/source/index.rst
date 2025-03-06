@@ -20,8 +20,14 @@ documentation for details.
    :undoc-members:
    :show-inheritance:
 
-.. .. autoclass:: recipe_extractor_tools.details.Details
-..    :members:
-..    :undoc-members:
-..    :show-inheritance:
+.. automodule:: recipe_extractor_tools.listing
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: recipe_extractor_tools.modes
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
