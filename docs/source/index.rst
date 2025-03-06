@@ -20,7 +20,7 @@ documentation for details.
    :undoc-members:
    :show-inheritance:
 
-.. automodule:: recipe_extractor_tools.modes
+.. autoclass:: recipe_extractor_tools.modes.Mode
    :members:
    :undoc-members:
    :show-inheritance:
