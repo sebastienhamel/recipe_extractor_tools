@@ -1,7 +1,7 @@
 from datetime import datetime
 from pydantic import BaseModel, Field
 
-from src.recipe_extractor_tools.modes import Mode
+from recipe_extractor_tools.modes import Mode
 
 class Listing(BaseModel):
     """
