@@ -15,12 +15,7 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: recipe_extractor_tools.details
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-.. automodule:: recipe_extractor_tools.listing
+.. automodule:: recipe_extractor_tools.listings
    :members:
    :undoc-members:
    :show-inheritance:
@@ -29,5 +24,11 @@ documentation for details.
    :members:
    :undoc-members:
    :show-inheritance:
+
+.. automodule:: recipe_extractor_tools.details
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 
