@@ -30,5 +30,26 @@ documentation for details.
    :undoc-members:
    :show-inheritance:
 
+.. automodule:: recipe_extractor_tools.encoder
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: recipe_extractor_tools.database_tables
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: recipe_extractor_tools.database_service
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: recipe_extractor_tools.logger_service
+   :members:
+   :exclude-members: exception_handler
+   :undoc-members:
+   :show-inheritance:
+
 
 
