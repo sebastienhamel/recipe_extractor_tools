@@ -26,6 +26,7 @@ dependencies = [
 keywords = ["recipe", "models", "ingredients", "methods"]
 
 [project.urls]
+Documentation = "https://recipe-extractor-tools.readthedocs.io/en/latest/"
 Homepage = "https://github.com/sebastienhamel/basic_recipe_extrator_tools"
 Repository = "https://github.com/sebastienhamel/basic_recipe_extrator_tools"
 Issuses = "https://github.com/sebastienhamel/basic_recipe_extrator_tools/issues"
