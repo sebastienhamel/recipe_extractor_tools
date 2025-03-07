@@ -28,5 +28,3 @@ The modes for example could be:
 
 ### Logger
 Basic logging service using the loguru library.
-
-### Test comment
