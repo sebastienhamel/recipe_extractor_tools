@@ -20,10 +20,11 @@ The method field is a list of actions necessary to make the recipe. It contains 
 ### Listing
 In the context of scraping, this is all the steps necessary to find the detail urls. In this tool, we must consider one table for the listing and each record will have it's own mode. Keep in mind that in the context of scraping, you want to have a preventative approach: **your script will fail**, that's a given. Dividing the listing in smaller modes will reduce the risk of losing data. 
 
-The modes for example could be:
-1. **DATABASE_SEEDING**: the seeding of the start urls necessary to start the listing
-2. **CATEGORIES**: the subdivision of categories to get to the details page
-3. **CATEGORIES_PAGE**: each seperate page from the categories search
+The modes, in our case, are:
+1. **CATEGORIES_LISTING**: the seeding of the start urls necessary to start the listing
+2. **CATEGORIES_LISTING_PAGE**: each seperate page from the categories search
+3. **RECIPE_LINKS**: the last listing mode; a detail link (this is a page where you can directly find the data you are scraping)
+4. **RECIPE_DETAILS**: the data scraped from the details page
 
 
 ### Logger
